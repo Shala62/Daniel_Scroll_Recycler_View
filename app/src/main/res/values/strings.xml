@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daniel_Scroll_Recycler_View</string>
+    <string name="btnScroll">ScrollView</string>
+    <string name="btnRecycler">Recycler and CardView</string>
+
+    <string name="txtListas">Listas</string>
+</resources>

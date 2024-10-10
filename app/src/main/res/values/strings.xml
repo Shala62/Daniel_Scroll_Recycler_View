@@ -4,4 +4,8 @@
     <string name="btnRecycler">Recycler and CardView</string>
 
     <string name="txtListas">Listas</string>
+
+    <string name="txtNombre">Daniel</string>
+    <string name="txtApellido">Soto</string>
+    <string name="txtCiudad">Temuco</string>
 </resources>
